@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**yuki/yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este es el rincón para mis proyectos. Actualmente soy profesor en Formación Profesional:
 
-Here are some ideas to get you started:
+- Mis proyectos más activos usan las siguientes tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tecnologías actuales](https://skillicons.dev/icons?i=arch,aws,docker,git,godot,latex,linux,md,rails)
+
+- Otras tecnologías:
+
+![Tecnologías actuales](https://skillicons.dev/icons?i=androidstudio,angular,css,debian,elasticsearch,grafana,html,jquery,laravel,mysql,neovim,nginx,perl,postgres,py,redis,swift,ts)
+
+
+- El resumen de mi Github:
+
+![Mis stats](https://github-readme-stats.vercel.app/api?username=yuki&show_icons=true&theme=dark)
+
+- Las estadísticas por lenguajes:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki&hide_progress=true)
