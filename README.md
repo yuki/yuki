@@ -8,13 +8,9 @@ Este es el rincón para mis proyectos. Actualmente soy profesor en Formación Pr
 
 - Otras tecnologías:
 
-![Tecnologías actuales](https://skillicons.dev/icons?i=androidstudio,angular,css,debian,elasticsearch,grafana,html,jquery,laravel,mysql,neovim,nginx,perl,postgres,py,redis,swift,ts)
+![Tecnologías actuales](https://skillicons.dev/icons?i=androidstudio,angular,css,debian,elasticsearch,grafana,html,jquery,laravel,mysql,neovim,nginx,perl,postgres,py,redis,swift,ts&perline=9)
 
 
 - El resumen de mi Github:
-
-![Mis stats](https://github-readme-stats.vercel.app/api?username=yuki&show_icons=true&theme=dark)
-
-- Las estadísticas por lenguajes:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki&hide_progress=true)
+  
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yuki&theme=dark" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuki&layout=compact&langs_count=8&card_width=320&theme=dark" />
